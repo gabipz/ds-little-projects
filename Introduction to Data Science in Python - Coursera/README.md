@@ -8,6 +8,21 @@ University of Michigan - Christopher Brooks
 
 ## [Week 1](Week_1.ipynb) - Python Fundamentals
 
+- Python Functions
+
+- Python Types and Sequences
+
+- Python More on Strings
+
+- Python Demonstration: Reading and Writing CSV files
+
+- Python Dates and Times
+
+- Advanced Python Objects, map()
+
+- Advanced Python Lambda and List Comprehensions
+
+- Advanced Python Demonstration: The Numerical Python Library (NumPy)
 
 ## [Weel 2](Week_2.ipynb) - Basic Data Processing with Pandas
 
@@ -25,3 +40,28 @@ University of Michigan - Christopher Brooks
 
 - Missing Values
 
+- [Exercise](Assignment_2.ipynb)
+
+- [Week 3](Week_3.ipynb) - Advanced Python Pandas
+
+- Merging DataFrames
+
+- Pandas Idioms
+
+- Group by
+
+- Scales
+
+- Pivot Tables
+
+- Date Functionality
+
+- [Exercise](Assignment_3.ipynb)
+
+- [Week 4](Week_4.ipynb) - Statistical Analysis in Python and Project
+
+- Distribuitions
+
+- Hypothesis Testing in Python
+
+- [Exercise](Assignment_4.ipynb)
