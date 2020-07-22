@@ -42,7 +42,7 @@ University of Michigan - Christopher Brooks
 
 - [Exercise](Assignment_2.ipynb)
 
-- [Week 3](Week_3.ipynb) - Advanced Python Pandas
+## [Week 3](Week_3.ipynb) - Advanced Python Pandas
 
 - Merging DataFrames
 
@@ -58,7 +58,7 @@ University of Michigan - Christopher Brooks
 
 - [Exercise](Assignment_3.ipynb)
 
-- [Week 4](Week_4.ipynb) - Statistical Analysis in Python and Project
+## [Week 4](Week_4.ipynb) - Statistical Analysis in Python and Project
 
 - Distribuitions
 
