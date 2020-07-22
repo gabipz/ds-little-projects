@@ -6,3 +6,22 @@ This course should be taken before any of the other Applied Data Science with Py
 
 University of Michigan - Christopher Brooks
 
+## [Week 1](Week_1.ipynb) - Python Fundamentals
+
+
+## [Weel 2](Week_2.ipynb) - Basic Data Processing with Pandas
+
+- The Series Data Structure
+
+- Querying a Series
+
+- The DataFrame Data Structure
+
+- DataFrame Indexing and Loading
+
+- Querying a DataFrame
+
+- Indexing DataFrames
+
+- Missing Values
+
