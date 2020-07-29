@@ -6,6 +6,6 @@ In this repository there are my Data Science studies.
 
 - [Covid-19 Data Analysis](Covid-19-Data-Analysis_Coursera) - Coursera (13/07/2020)
 
-- [Introduction to Data Science in Python]("Introduction to Data Science in Python") - Coursera (20/07/2020 - 08/07/2020)
+- [Introduction to Data Science in Python](https://github.com/gabipz/ds-studies/tree/master/Introduction%20to%20Data%20Science%20in%20Python%20-%20Coursera) - Coursera (20/07/2020 - 08/07/2020)
 
 - "Semana de Inovação - Grêmio Politécnico da USP - Big Data: Inteligência Artificial para valer" - [detector fake news](Workshop_bigdata-master) (27/07/2020 - 31/07/2020)
