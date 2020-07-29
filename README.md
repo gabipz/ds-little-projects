@@ -1,3 +1,3 @@
 # DataScience Little Projects
 
-In this repository are my Data Science studies.
+In this repository there are my Data Science studies.
